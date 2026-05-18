@@ -16,11 +16,14 @@ I received my M.Eng. degree in [computer Technology Engineering from the School 
 
 Research Interest
 ======
-My current research interests mainly include *Protocol fuzzing* and *Kernel fuzzing*.
+My current research interests mainly include *AI for Security*, *Fuzzing*, *Network Protocols*, and *Vulnerability Mining*.
 
+Publications
+======
+1. H Wei, Z Du, H Huang, Y Liu, G Cheng, L Wang, B Mao. *Unleashing the Power of LLM to Infer State Machine From the Protocol Implementation*. (IWQoS 2025, CCF-B)
+2. H Huang, Y Liu, Y Cheng, H Wei, J Liu, Y Wang, L Wang. *Recover Function Signature from Combined Constraints*. (CCS 2025, CCF-A)
 
 Contact me
 ======
 You can contact my with following email address: weihaiyang AT smail.nju.edu.cn
-
 
