@@ -20,12 +20,12 @@ My current research interests mainly include *AI for Security*, *Fuzzing*, *Netw
 
 Publications
 ======
-- IWQoS'25: *Unleashing the Power of LLM to Infer State Machine From the Protocol Implementation*  
-  H Wei, Z Du, H Huang, Y Liu, G Cheng, L Wang, B Mao  
+- IWQoS'25: Unleashing the Power of LLM to Infer State Machine From the Protocol Implementation  
+  **Haiyang Wei**, Ligeng Chen, Zhengjie Du, Yuhan Wu, Haohui Huang, Yue Liu, Guang Cheng, Fengyuan Xu, Linzhang Wang, Bing Mao  
   IEEE/ACM International Symposium on Quality of Service
 
-- CCS'25: *Recover Function Signature from Combined Constraints*  
-  H Huang, Y Liu, Y Cheng, H Wei, J Liu, Y Wang, L Wang  
+- CCS'25: Recover Function Signature from Combined Constraints  
+  Haohui Huang, Yue Liu, Yuxi Cheng, **Haiyang Wei**, Jiamu Liu, Yu Wang, Linzhang Wang  
   ACM Conference on Computer and Communications Security
 
 Contact me
